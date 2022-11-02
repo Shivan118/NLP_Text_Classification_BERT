@@ -20,3 +20,4 @@ streamlit run app.py
 
 Hugging Face Profile[https://huggingface.co/Shivan118]
 
+Next Step: Deploy Fine-tuned Transformers Model on AWS Fargate (Serverless compute for containers)
