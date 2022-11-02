@@ -1,0 +1,17 @@
+https://github.com/huggingface/blog/blob/main/encoder-decoder.md
+
+https://huggingface.co/blog/encoder-decoder
+
+https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b
+
+https://docs.cohere.ai/text-classification-embeddings
+
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+
+http://jalammar.github.io/illustrated-transformer/
+
+https://colab.research.google.com/drive/1WIk2bxglElfZewOHboPFNj8H44_VAyKE?usp=sharing#scrollTo=9pftbMBeJACc
+
+
+https://huggingface.co/docs/transformers/model_doc/encoder-decoder

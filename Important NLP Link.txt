@@ -1,0 +1,31 @@
+Encoder Decoder:
+
+https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b
+
+https://medium.com/data-science-community-srm/understanding-encoders-decoders-with-attention-based-mechanism-c1eb7164c581
+
+https://arxiv.org/pdf/1409.3215.pdf
+
+
+Hugging Face
+
+
+https://huggingface.co/docs/hub/sentence-transformers#:~:text=Using%20Sentence%20Transformers%20at%20Hugging%20Face%20sentence-transformers%20is,applications%20such%20as%20semantic%20search%2C%20clustering%2C%20and%20retrieval.
+
+
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+https://huggingface.co/course/en/chapter5/6?fw=pt
+
+
+https://huggingface.co/clips/mfaq
+
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+Semantic Similarity with BERT
+
+https://medium.com/mlearning-ai/nlp-day-26-semantic-similarity-with-bert-and-huggingface-transformers-ce76011d5a51
+
+
+https://medium.com/analytics-vidhya/semantic-search-engine-using-nlp-cec19e8cfa7e
+
